@@ -1,0 +1,1 @@
+(3*nu*r*Dot(p,r)**2 - 2*r*Sqrt(Dot(r,r)) + r*(2*c**2 + (3 + nu)*Dot(p,p))*Dot(r,r) - 2*nu*p*Dot(p,r)*Dot(r,r))/(2.*c**2*Dot(r,r)**2.5)
